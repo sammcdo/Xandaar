@@ -1,5 +1,5 @@
 # Xandaar
-A Space Invaders clone written in python
+A Space Invaders clone written in python, inadvertently named after the planet in the Marvel Cinematic Universe.
 
 Based off of the game _Alien Invasion_ created in the book [Python Crash Course](https://ehmatthes.github.io/pcc_2e/).
 
